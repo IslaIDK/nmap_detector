@@ -4,7 +4,7 @@ import threading
 import subprocess
 import os
 host_addr = "192.168.1.100"
-public_ip = "81.215.137.136"
+public_ip = "81.215.137.136" #just update to the new one
 src_ips_ports = []
 dest_ips_ports = []
 ips_services = {}
